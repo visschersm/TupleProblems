@@ -1,4 +1,5 @@
 ﻿using ClassLibrary1;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace MSTestProject
 {
